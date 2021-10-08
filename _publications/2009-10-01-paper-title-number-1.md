@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Ordering sequential competitions to reduce order relevance: Soccer penalty shootouts"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020-ordering-shootouts
+excerpt: 'In sequential competitions like penalty shootouts, the order in which teams take turns may have an impact on performance and the outcome. Using an extensive dataset of shootouts, this work evaluates the impact of alternative ordering of shots by modelling shootouts as a probability network. These probability netowrks are calibrated using data from the traditional ordering.'
+date: 2020-12-30
+venue: 'PLOS One'
+paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243786'
+citation: 'Nils  Rudi,  Marcelo  Olivares,  and  Aditya  Shetty.   Ordering  sequential  com-petitions  to  reduce  order  relevance:   Soccer  penalty  shootouts.PloS one,15(12):e0243786, 2020'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In sequential competitions, the order in which teams take turns may have an impact on performance and the outcome. Previous studies with penalty shootouts have shown mixed evidence of a possible advantage for the first shooting team. This has led to some debate on whether a change in the rules of the game is needed. This work contributes to the debate by collecting an extensive dataset of shootouts which corroborates an advantage for the first shooter, albeit with a smaller effect than what has been documented in previous research. To evaluate the impact of alternative ordering of shots, we model shootouts as a probability network, calibrate it using the data from the traditional ordering, and use the model to conduct counterfactual analysis. Our results show that alternating the team that shoots first in each round would reduce the impact of ordering. These results were in part developed as supplement to field studies to support the International Football Association Board’s (IFAB) consideration of changing the shooting order.
+[Download paper here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243786)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Nils  Rudi,  Marcelo  Olivares,  and  Aditya  Shetty.   Ordering  sequential  com-petitions  to  reduce  order  relevance:   Soccer  penalty  shootouts.PloS one,15(12):e0243786, 2020
