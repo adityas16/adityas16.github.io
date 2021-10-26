@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Aditya Shetty's home on the web!
+Quantitative model developer with industrial and academic experience in building analytical and statistical
+models, from conception to deployment.
 
